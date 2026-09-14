@@ -4,7 +4,7 @@
 
 :3
 
-codes // anime // youtube
+codes // anime // cat
 
 <a href="https://krvats.github.io"><strong>website</strong></a> | <a href="https://krvats.github.io/notebook"><strong>blogs</strong></a> | <a href="https://x.com/kr5na_"><strong>x (twitter)</strong></a> | <a href="mailto:roubinsh01@gmail.com"><strong>email</strong></a> | <a href="https://doi.org/10.5281/zenodo.22715269"><strong>DOI</strong></a> | <a href="https://orcid.org/0009-0000-9941-3267"><strong>ORCID</strong></a>
 
